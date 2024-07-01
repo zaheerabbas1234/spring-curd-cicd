@@ -11,7 +11,7 @@ public class CurdApplication {
 	
 	@GetMapping("/") 
 	public String test() {
-		return "welcome to cicd";
+		return "welcome to first cicd pipeline program";
 	}
 	
 
