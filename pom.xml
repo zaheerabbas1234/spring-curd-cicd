@@ -72,6 +72,8 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>curd</finalName>
+		<directory>${project.basedir}/target</directory>
 	</build>
 
 </project>
